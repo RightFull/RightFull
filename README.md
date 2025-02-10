@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RightFull
+- 🔩 I'm Mechanical Engineer but I interested in computer programming
 - 👀 I’m interested in Trading and Business making Processes
 - 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on improving
